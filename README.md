@@ -28,5 +28,3 @@ Ex. JSON service data:
 ```
 {"message":"Hello, World!", "data":{"color":"random"}}
 ```
-
-You can use ```host: /dev/ttyUSB0``` or such as well
